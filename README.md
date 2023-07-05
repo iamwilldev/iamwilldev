@@ -43,7 +43,7 @@ fun main() {
 
 ## ```Status 🐾```
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamwilldev&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldevo&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&show_icons=true&theme=radical" />
 </p>
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
