@@ -7,41 +7,41 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_apinn)](https://twitter.com/iam_apinn)
 [![Linkedin: muhmuqtafinnuha](https://img.shields.io/badge/-muhmuqtafinnuha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhmuqtafinnuha/)](https://www.linkedin.com/in/muhmuqtafinnuha/)
 ![GitHub followers](https://img.shields.io/github/followers/iamwilldev)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://)](https://) -->
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/iamapinn-dev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-👇 Hit in your console or terminal to connect with me.
+<!-- 👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx anmol
 ```
 
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)** -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const anmol = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "Java", "PHP"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  code: ["Python", "PHP"],
+  askMeAbout: ["web dev", "tech", "app dev", "full stack web dev"],
   technologies: {
     backEnd: {
-      js: ["Node", "Fastify", "Express"],
+      php: ["Laravel"],
     },
-    mobileApp: {
-      native: ["Android Development"],
+    frontEnd: {
+      js: ["React", "Vue.js"],
+      hybrid: ["React Native", "Flutter"],
     },
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
+    devOps: ["AWS", "Docker🐳", "Nginx"],
+    databases: ["mongo", "MySql", "sqlite", "oracle sql", "postgresql"],
+    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"],
   },
   architecture: [
     "Serverless Architecture",
