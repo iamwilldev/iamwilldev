@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕 🙏🏻, I'm Muhammad Muqtafin Nuha! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕 🙏🏻, I'm Muhammad Muqtafin Nuha! <img src="https://lh3.google.com/u/0/d/1NmgenVAmjN4Ohci4dbT2xvUKRInNR0vt=w2940-h1598-iv2" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>5th semester student at <a href="https://www.trunojoyo.ac.id/">Trunojoyo University Madura
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
