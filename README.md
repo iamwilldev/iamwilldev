@@ -36,11 +36,11 @@ const apinn = {
       php: ["Laravel"],
     },
     frontEnd: {
-      js: ["React", "Vue.js"],
-      hybrid: ["React Native", "Flutter"],
+      js: ["React"],
+      hybrid: ["React Native"],
     },
-    devOps: ["AWS", "Docker🐳", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite", "oracle sql", "postgresql"],
+    devOps: ["Docker🐳", "Nginx"],
+    databases: ["MySql", "sqlite", "oracle sql", "postgresql"],
     misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"],
   },
   architecture: [
