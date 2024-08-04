@@ -8,9 +8,9 @@ Programmer Intern at [Scomptec](https://www.scomptec.com/);<br>
 Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https://arkatama.id/);<br>
 
 ## 📚 Table of Contents
-- [Technologies & Tools](#technologies--tools)
-- [Highlighted Projects](#highlighted-projects)
-- [Get in Touch](#get-in-touch)
+- [Technologies & Tools](#-technologies--tools)
+- [Highlighted Projects](#-highlighted-projects)
+- [Get in Touch](#-get-in-touch)
 
 ## 💻 Technologies & Tools
 - **DevOps**: Git, Github, Gitlab, Docker, Google Cloud Platform (GCP), CI/CD
