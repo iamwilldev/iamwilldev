@@ -1,59 +1,34 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕 🙏🏻, I'm Muhammad Muqtafin Nuha! <img src="https://github.com/iamwilldev/Kumpulan-Dataset/blob/cc67a9a3c8f5704a8f63832db0adc7b21c24aec7/Github/kai.png" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>5th semester student at <a href="https://www.trunojoyo.ac.id/">Trunojoyo University Madura
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+### Hello there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_apinn)](https://twitter.com/iam_apinn)
-[![Linkedin: muhmuqtafinnuha](https://img.shields.io/badge/-muhmuqtafinnuha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhmuqtafinnuha/)](https://www.linkedin.com/in/muhmuqtafinnuha/)
-![GitHub followers](https://img.shields.io/github/followers/iamwilldev)
+#### A Full-Stack Web Developer and UI/UX Designer with experience in building and designing fast, responsive and user-friendly websites and web applications.
 
-<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://)](https://) -->
+Informatics Engineering Student at [Trunojoyo University](https://www.trunojoyo.ac.id/);<br>
+Information System Intern at [PT. Mitra Alam Persada]();<br>
+Programmer Intern at [Scomptec](https://www.scomptec.com/);<br>
+Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https://arkatama.id/);<br>
 
-### 📫 Like to meet me?
+## 📚 Table of Contents
+- [Technologies & Tools](#technologies--tools)
+- [Highlighted Projects](#highlighted-projects)
+- [Get in Touch](#get-in-touch)
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+## 💻 Technologies & Tools
+- **DevOps**: Git, Github, Gitlab, Docker, Google Cloud Platform (GCP), CI/CD
+- **Back‐end**: PHP, Python, Java, Node.js, MySQL, PostgreSQL, SQLite, MongoDB, API, Laravel
+- **Front‐end**: React, HTML5, CSS, JavaScript, jQuery, Figma, Adobe XD, Tailwind CSS, Boostrap
+- **Programming**: Python, Java, C++, PHP, JavaScript, LaTeX, Bash
+- **Data Science**: Pandas, NumPy, Scikit‐learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Jupyter Notebook
+- **Project Management**: Trello, Notion
 
-<a href="https://calendly.com/iamapinn-dev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+## 🌟 Highlighted Projects
+1. **[Semester-5](https://github.com/iamwilldev/Semester-5)** - A showcase of academic projects including web applications, mobile apps, and more.
+2. **[FaceDetection-PCA-Manhattan](https://github.com/iamwilldev/FaceDetection-PCA-Manhanttan)** - An innovative approach to facial recognition using Principal Component Analysis and Manhattan distance.
+3. **[Skill Test MSIB FSWD Arkatama](https://github.com/iamwilldev/skill-test-msib-fswd-arkatama)** - A demonstration of full-stack web development skills through a comprehensive skill test project.
 
-<!-- 👇 Hit in your console or terminal to connect with me.
+## 🤝 Get in Touch
+- **LinkedIn**: [Muhammad Muqtafin Nuha](https://www.linkedin.com/in/muhmuqtafinnuha)
+- **Kaggle**: [Profile](https://www.kaggle.com/muhmuqtafinnuha)
+- **Personal Website**: [kai-dev.my.id](https://kai-dev.my.id)
 
-```bash
-npx anmol
-```
-
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)** -->
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const apinn = {
-  pronouns: "He" | "Him",
-  code: ["Python", "PHP"],
-  askMeAbout: ["web dev", "tech", "app dev", "full stack web dev"],
-  technologies: {
-    backEnd: {
-      php: ["Laravel"],
-    },
-    frontEnd: {
-      js: ["React"],
-      hybrid: ["React Native"],
-    },
-    devOps: ["Docker🐳", "Nginx"],
-    databases: ["MySql", "sqlite", "oracle sql", "postgresql"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"],
-  },
-  architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
-  ],
-  currentFocus: "No Focus point at this time",
-  funFact:
-    "There are two ways to write error-free programs; only the third one works",
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
+### ✨ Let's Connect!
+I'm always excited to connect with like-minded individuals, collaborate on projects, or simply chat about technology. Feel free to reach out!
