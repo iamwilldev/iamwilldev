@@ -6,6 +6,7 @@ Informatics Engineering Student at [Trunojoyo University](https://www.trunojoyo.
 Information System Intern at [PT. Mitra Alam Persada]();<br>
 Programmer Intern at [Scomptec](https://www.scomptec.com/);<br>
 Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https://arkatama.id/);<br>
+Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura](https://tik.trunojoyo.ac.id/);<br>
 
 ## 📚 Table of Contents
 - [Technologies & Tools](#-technologies--tools)
@@ -21,9 +22,9 @@ Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https
 - **Project Management**: Trello, Notion
 
 ## 🌟 Highlighted Projects
-1. **[Semester-5](https://github.com/iamwilldev/Semester-5)** - A showcase of academic projects including web applications, mobile apps, and more.
+<!-- 1. **[Semester-5](https://github.com/iamwilldev/Semester-5)** - A showcase of academic projects including web applications, mobile apps, and more.
 2. **[FaceDetection-PCA-Manhattan](https://github.com/iamwilldev/FaceDetection-PCA-Manhanttan)** - An innovative approach to facial recognition using Principal Component Analysis and Manhattan distance.
-3. **[Skill Test MSIB FSWD Arkatama](https://github.com/iamwilldev/skill-test-msib-fswd-arkatama)** - A demonstration of full-stack web development skills through a comprehensive skill test project.
+3. **[Skill Test MSIB FSWD Arkatama](https://github.com/iamwilldev/skill-test-msib-fswd-arkatama)** - A demonstration of full-stack web development skills through a comprehensive skill test project. -->
 
 ## 🤝 Get in Touch
 - **LinkedIn**: [Muhammad Muqtafin Nuha](https://www.linkedin.com/in/muhmuqtafinnuha)
@@ -32,24 +33,12 @@ Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https
 
 ## 🔥 My Stats :
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamwilldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamwilldev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwilldev&locale=en&theme=dracula&border_radius=5" height="150" alt="Stat Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&langs_count=6&locale=en&theme=dracula&border_radius=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
+  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" />
+  <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwilldev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&layout=compact&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamwilldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamwilldev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwilldev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <span><a href="https://wakatime.com/@iamwilldev"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&layout=compact&langs_count=6" /></a></span>
-</div>
-<img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
 
 ### ✨ Let's Connect!
 I'm always excited to connect with like-minded individuals, collaborate on projects, or simply chat about technology. Feel free to reach out!
