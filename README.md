@@ -32,19 +32,13 @@ Full-Stack Web Developer Intern (MSIB 6) at [PT. Arkatama Multi Solusindo](https
 
 ## 🔥 My Stats :
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamwilldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=iamwilldev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=iamwilldev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwilldev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <a href="https://wakatime.com/@iamwilldev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&layout=compact&langs_count=6" />
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&layout=compact&langs_count=6" />
 </div>
 
 <div align="center">
