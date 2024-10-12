@@ -1,8 +1,16 @@
-### Hello there 👋 <img src="https://visitor-badge.laobi.icu/badge?page_id=iamwilldev.iamwilldev&"  />
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> :blush:
 
+<div align="center">
+  <a href="https://img.shields.io/github/stars/iamwilldev/iamwilldev" target="_blank"><img src="https://img.shields.io/github/stars/iamwilldev/iamwilldev?style=flat-square"  alt="Stars Badge"/></a>
+  <a href="https://github.com/iamwilldev/iamwilldev/stargazers" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=iamwilldev.iamwilldev&" alt="Visitors Badge"/></a>
+  <br/>
+  <samp>
+        I'm Muhammad Muqtafin Nuha. Full-Stack Web Developer, UI/UX Designer, and Open Source Enthusiast from Indonesian.
+  </samp>
+  <br/>
+  <br/>
+</div>
 <!-- #### A Full-Stack Web Developer and UI/UX Designer with experience in building and designing fast, responsive and user-friendly websites and web applications. -->
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&width=413&height=23&lines=A+Full-Stack+Web+Developer+and+UI%2FUX+Designer)](https://git.io/typing-svg) with experience in building and designing fast, responsive and user-friendly websites and web applications.
-
 
 Informatics Engineering Student at [Trunojoyo University](https://www.trunojoyo.ac.id/);<br>
 Information System Intern at [PT. Mitra Alam Persada]();<br>
