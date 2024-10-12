@@ -1,6 +1,8 @@
 ### Hello there 👋 <img src="https://visitor-badge.laobi.icu/badge?page_id=iamwilldev.iamwilldev&"  />
 
-#### A Full-Stack Web Developer and UI/UX Designer with experience in building and designing fast, responsive and user-friendly websites and web applications.
+<!-- #### A Full-Stack Web Developer and UI/UX Designer with experience in building and designing fast, responsive and user-friendly websites and web applications. -->
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&width=413&height=23&lines=A+Full-Stack+Web+Developer+and+UI%2FUX+Designer)](https://git.io/typing-svg) with experience in building and designing fast, responsive and user-friendly websites and web applications.
+
 
 Informatics Engineering Student at [Trunojoyo University](https://www.trunojoyo.ac.id/);<br>
 Information System Intern at [PT. Mitra Alam Persada]();<br>
