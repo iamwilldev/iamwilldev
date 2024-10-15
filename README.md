@@ -46,7 +46,9 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwilldev&locale=en&theme=dracula&border_radius=5" height="150" alt="Stat Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&langs_count=6&locale=en&theme=dracula&border_radius=5" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
-  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev" height="300" />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=iamwilldev" height="150"/>
   <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
 </div>
 
