@@ -50,6 +50,7 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev" height="300" />
   <img src="https://stats.dooboo.io/api/github-trophies?login=iamwilldev" height="150"/>
   <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
+  <img src="https://repobeats.axiom.co/api/embed/609fd36b985a2dd7d93d09245d64442caa25a182.svg"/>
 </div>
 
 ### ✨ Let's Connect!
