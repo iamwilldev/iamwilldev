@@ -24,7 +24,7 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
 - [Get in Touch](#-get-in-touch)
 
 ## 💻 Technologies & Tools
-- **DevOps**: Git, Github, Gitlab, Docker, Google Cloud Platform (GCP), CI/CD
+- **DevOps**: Git, Github, Gitlab, Docker, CI/CD
 - **Back‐end**: PHP, Python, Java, Node.js, MySQL, PostgreSQL, SQLite, MongoDB, API, Laravel
 - **Front‐end**: React, HTML5, CSS, JavaScript, jQuery, Figma, Adobe XD, Tailwind CSS, Boostrap
 - **Programming**: Python, Java, C++, PHP, JavaScript, LaTeX, Bash
@@ -43,7 +43,7 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
 
 ## 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwilldev&locale=en&theme=dracula&border_radius=5" height="150" alt="Stat Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamwilldev&theme=dracula&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&langs_count=6&locale=en&theme=dracula&border_radius=5" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
