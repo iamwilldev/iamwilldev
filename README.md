@@ -43,12 +43,15 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
 
 ## 🔥 My Stats :
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamwilldev&theme=dracula&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&langs_count=6&locale=en&theme=dracula&border_radius=5" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev" height="300" />
-  <img src="https://stats.dooboo.io/api/github-trophies?login=iamwilldev" height="150"/>
+  <a href="https://git.io/streak-stats">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=iamwilldev&theme=dracula&short_numbers=true&mode=weekly&border_radius=5&locale=en" alt="GitHub Streak" />
+  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwilldev&langs_count=5&locale=en&theme=dracula&border_radius=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&locale=en&theme=dracula&border_radius=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
+  <img height="150" src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev" />
+  <img src="https://github.com/iamwilldev/iamwilldev/blob/master/github-metrics.svg" />
+<!--   <img height="150" src="https://stats.dooboo.io/api/github-trophies?login=iamwilldev" /> -->
   <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
   <img src="https://repobeats.axiom.co/api/embed/609fd36b985a2dd7d93d09245d64442caa25a182.svg"/>
 </div>
