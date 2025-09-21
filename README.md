@@ -50,8 +50,7 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamwilldev&show_icons=true&count_private=true&locale=en&theme=dracula&border_radius=5" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwilldev&layout=compact&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
   <img height="150" src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev" />
-  <img src="https://github.com/iamwilldev/iamwilldev/blob/master/github-metrics.svg" />
-<!--   <img height="150" src="https://stats.dooboo.io/api/github-trophies?login=iamwilldev" /> -->
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=iamwilldev](https://metrics.lecoq.io/iamwilldev?template=classic&achievements=1&followup=1&calendar=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FJakarta&config.display=large" />
   <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
   <img src="https://repobeats.axiom.co/api/embed/609fd36b985a2dd7d93d09245d64442caa25a182.svg"/>
 </div>
