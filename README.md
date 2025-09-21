@@ -55,5 +55,7 @@ Software Development Intern at [TRUST TECH (UPA TIK Universitas Trunojoyo Madura
   <img src="https://repobeats.axiom.co/api/embed/609fd36b985a2dd7d93d09245d64442caa25a182.svg"/>
 </div>
 
+![Metrics](https://metrics.lecoq.io/iamwilldev?template=classic&achievements=1&followup=1&calendar=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FJakarta&config.display=large)
+
 ### ✨ Let's Connect!
 I'm always excited to connect with like-minded individuals, collaborate on projects, or simply chat about technology. Feel free to reach out!
